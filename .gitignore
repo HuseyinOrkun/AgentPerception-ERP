@@ -1,5 +1,7 @@
 *GND
 .DS_Store
 ERP_Files/
-.xlsx
-.erp
+*.xlsx
+*.erp
+*.asv
+*.GRP
