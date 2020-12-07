@@ -1,0 +1,11 @@
+bin 1
+Naive Still Robot
+.{51;52;53;54;55;56;57;58}
+
+bin 2
+Naive Still Android
+.{61;62;63;64;65;66;67;68}
+
+bin 3
+Naive Still Human
+.{71;72;73;74;75;76;77;78}

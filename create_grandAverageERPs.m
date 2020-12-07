@@ -1,0 +1,4 @@
+ERP = pop_loaderp( 'filename', 'subject07_Prior.erp', 'filepath', '/Users/huseyinelmas/Desktop/CCN-Lab/CCN-RSA/AnovaSubject/ERP_files/Prior/subject07/' );                                                                                                                                     
+ERP = pop_loaderp( 'filename', 'subject06_Prior.erp', 'filepath', '/Users/huseyinelmas/Desktop/CCN-Lab/CCN-RSA/AnovaSubject/ERP_files/Prior/subject06/' );                                                                                                                                     
+ERP = pop_gaverager( ALLERP , 'DQ_flag', 1, 'DQ_spec', DQ_spec_structure, 'Erpsets', 12, 'ExcludeNullBin', on, 'SEM', on );
+ERP = pop_savemyerp(ERP, 'erpname', 'grand_avg_erp', 'filename', 'grand_avg_erp.erp', 'filepath', '/Users/huseyinelmas/Downloads/eeglab2019_1-2', 'Warning', 'on');
